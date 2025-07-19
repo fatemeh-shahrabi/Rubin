@@ -43,9 +43,9 @@ Managing large sets of student data manually can be time-consuming and error-pro
 
 All screenshots can be found in the [`screenshots`](./screenshots) folder:
 
-| ![Uploader](./Screenshots/import-data.png) | ![GlobalChat](./Screenshots/global-chat.png) |
+| ![Uploader](./screenshots/import-data.png) | ![GlobalChat](./screenshots/global-chat.png) |
 |-----------------------------------------|-------------------------------------------|
-| ![StudentDetails](./Screenshots/student.png) | ![StudentLabels](./Screenshots/Labels.png)           |
+| ![StudentDetails](./screenshots/student.png) | ![StudentLabels](./screenshots/Labels.png)           |
 
 ---
 
