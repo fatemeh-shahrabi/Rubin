@@ -16,7 +16,6 @@ Managing large sets of student data manually can be time-consuming and error-pro
 [![Livewire](https://img.shields.io/badge/-Livewire-%2322C55E?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel-livewire.com)  
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)  
 [![OpenAI](https://img.shields.io/badge/-OpenAI-%23000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)  
-[![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  
 [![SQLite](https://img.shields.io/badge/-SQLite-%230073a6?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
 
 ---
