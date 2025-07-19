@@ -27,7 +27,6 @@ Managing large sets of student data manually can be time-consuming and error-pro
 - Auto-generate basic analytics (e.g., grade averages, attendance summaries)  
 - AI chatbot to answer questions like "Who has the highest grade in math?"  
 - Clean UI with Tailwind + Livewire components  
-- Secure storage and retrieval of data  
 
 ---
 
